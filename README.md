@@ -6,9 +6,9 @@
 3. **Interstellar**
 4. **The DarK Knight**
 ---
-[title](https://yts.mx/)
+[link](https://yts.mx/)
 ---
-[title](gamesforyou.co)
+[link](gamesforyou.co)
 ---
 
 
